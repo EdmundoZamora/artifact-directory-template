@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Eco-Acoustic Event Detection: Classifying temporal presence of birds in recorded bird vocalization audio>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<Leveraging "Deep Learning" methods to classify temporal presence birds in recorded bird vocalization audio. Using a hybrid CNN-RNN model, trained on audio data, in the interest of benefitting wildlife monitoring and preservation.>
